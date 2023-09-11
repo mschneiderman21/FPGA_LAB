@@ -1,2 +1,2 @@
 # FPGA_LAB
-Full Adder (Verilog) forthe BASYS3
+Full Adder (Verilog) for the BASYS3
