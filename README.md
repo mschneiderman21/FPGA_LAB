@@ -1,2 +1,2 @@
 # FPGA_LAB
-Full Adder (Verilog) forthe BASYS3
+2 Input 4 Bit Adder that displays the Sum on the BASYS3 Seven-Segment Display.
