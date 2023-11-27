@@ -1,2 +1,2 @@
 # FPGA_LAB
-Full Adder (Verilog) forthe BASYS3
+This is a sequential multiplier that reads from the ROM and writes the results to the RAM.
